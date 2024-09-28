@@ -10,5 +10,4 @@ __all__ = [
     "execute",
     "distribution_function",
     "distribution_execute"
-    "ProbabilisticExecutor",
 ]
