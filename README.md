@@ -5,6 +5,7 @@ Probabilistic is a Python library designed to facilitate the probabilistic execu
 ## Table of Contents
 
 - [Features](#features)
+- [Installation](#installation)
 - [Quick Start](#quick-start)
 - [Documentation](#documentation)
   - [API Reference](docs/API_Reference.md)
@@ -13,7 +14,7 @@ Probabilistic is a Python library designed to facilitate the probabilistic execu
 - [Support This Project](#support-this-project)
 
 
-### Features
+## Features
 
 - [x] **Probabilistic Function Execution**: Execute functions based on specified probabilities using decorators.
 - [x] **Batch Execution**: Execute multiple functions independently with individual probabilities.
@@ -26,8 +27,16 @@ Probabilistic is a Python library designed to facilitate the probabilistic execu
 - [ ] Probability Chains
 - [ ] Asynchronous Execution Support
 - [ ] Integration with Popular Libraries like NumPy and Pandas for enhanced data handling and analysis.
-## Quick Start
 
+## Installation
+
+You can install the **Probabilistic** library using `pip`. Ensure that you have Python 3.6 or higher installed on your system.
+
+```bash
+pip install probabilistic.py
+```
+
+## Quick Start
 Here's a quick example to get you started with Probabilistic.
 
 ### Using the `function` Decorator

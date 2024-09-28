@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="probabilistic",
+    name="probabilistic.py",
     version="0.1.0",
     author="R Kataria",
     description="A package for probabilistic function execution.",
